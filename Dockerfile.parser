@@ -1,0 +1,18 @@
+# Dockerfile для парсера
+FROM python:3.9-slim
+
+WORKDIR /app
+
+COPY requirements.txt .
+
+# Устанавливаем зависимости
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Удаляем файл requirements.txt для уменьшения размера образа
+RUN rm requirements.txt
+
+COPY . .
+
+#CMD []
+#один раз запуская нужно выполнить такой код "CMD ["python", "_init_db.py"]" - для инциализации бд, далее эту строку убираем и перезапускаем
+CMD ["python", "parser.py"]

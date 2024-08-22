@@ -1,0 +1,16 @@
+2024-08-16 13:27:04,737 - ERROR - Error parsing RSS: Couldn't find a tree builder with the features you requested: lxml-xml. Do you need to install a parser library?
+2024-08-16 13:27:04,737 - INFO - No news data found
+2024-08-16 13:27:54,582 - ERROR - Error saving news: [Errno 11001] getaddrinfo failed
+2024-08-16 13:27:54,582 - INFO - Fetched and saved news data
+2024-08-16 13:31:36,561 - ERROR - Error saving news: [Errno 11001] getaddrinfo failed
+2024-08-16 13:31:36,562 - INFO - Fetched and saved news data
+2024-08-16 13:34:32,240 - ERROR - Error saving news: [Errno 11001] getaddrinfo failed
+2024-08-16 13:34:32,240 - INFO - Fetched and saved news data
+2024-08-16 13:44:35,154 - ERROR - Error saving news: [Errno 11001] getaddrinfo failed
+2024-08-16 13:44:35,155 - INFO - Fetched and saved news data
+2024-08-16 13:54:38,102 - ERROR - Error saving news: [Errno 11001] getaddrinfo failed
+2024-08-16 13:54:38,103 - INFO - Fetched and saved news data
+2024-08-16 14:04:41,067 - ERROR - Error saving news: [Errno 11001] getaddrinfo failed
+2024-08-16 14:04:41,067 - INFO - Fetched and saved news data
+2024-08-16 14:14:44,034 - ERROR - Error saving news: [Errno 11001] getaddrinfo failed
+2024-08-16 14:14:44,034 - INFO - Fetched and saved news data
